@@ -29,7 +29,9 @@ h1,h2,h3,h4,h5,h6 strong{
     
 }
 
-
+body *{
+    transition:0.3s;
+}
 p,li,span,lable,input,textarea{
     color:var(--secondaryText);
     font-family: 'Lora', serif;
