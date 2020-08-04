@@ -106,6 +106,9 @@ box-shadow: -1px -1px 3px -1px rgba(0,0,0,0.75);
 #navigation li a{
     color:var(--navText);
 }
+#navigation li a:hover{
+    color:purple;
+}
 
 #navigation{
     margin 0px;
